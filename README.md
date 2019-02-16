@@ -1,6 +1,6 @@
-# persister
+# Persister
 
-`persister` is a Python cli program which can help you persist your foreign images of **Markdown** files.
+`persister` is a Python cli-program which can help you persist your foreign images of **Markdown** files.
 
 ## Installation
 
