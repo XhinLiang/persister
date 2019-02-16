@@ -1,4 +1,4 @@
 install:
-	ln -s bin/persister /usr/local/bin/
+	ln -fsv $(pwd)/bin/persister /usr/local/bin/persister
 build:
-	mkdir bin && mv src/persister.py bin/persiser
+	mkdir bin && cp src/persister.py bin/persiser
