@@ -2,6 +2,8 @@
 
 # persister
 ![](https://img.shields.io/crates/l/e.svg) ![](https://img.shields.io/pypi/pyversions/Scrapy.svg?style=flat) ![](https://img.shields.io/github/watchers/xhinliang/persister.svg?style=social) ![](https://img.shields.io/github/stars/xhinliang/persister.svg?style=social) ![](https://img.shields.io/github/forks/xhinliang/persister.svg?style=social)
+
+
 `persister` is a Python cli program which can help you persist your foreign images of **Markdown** files.
 
 
